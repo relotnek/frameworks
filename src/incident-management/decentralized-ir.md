@@ -1,3 +1,16 @@
+---
+tags:
+  - Security Specialist
+  - Operations & Strategy
+  - Devops
+  - SRE
+contributors:
+  - role: wrote
+    users: [relotnek]
+  - role: reviewed
+  - role: fact_checked
+---
+
 # Decentralized Incident Response Framework (DeIRF)
 
 A lightweight, end-to-end scaffold for security teams that work without a single authority.  
